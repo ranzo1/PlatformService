@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zoran.protic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zoran.protic\\.nuget\\packages"
+    ]
+  }
+}
